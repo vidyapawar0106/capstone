@@ -1,0 +1,6 @@
+[submodule "MedicareSystemFrontend"]
+	path = MedicareSystemFrontend
+	url = https://github.com/vidyapawar0106/MedicareSystemFrontend.git
+[submodule "medicareSystem"]
+	path = medicareSystem
+	url = https://github.com/vidyapawar0106/medicareSystem.git
